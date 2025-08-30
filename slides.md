@@ -2,14 +2,7 @@
 theme: apple-basic
 author: Orion
 
-download: true
-exportFilename: slidemo
-export:
-  format: pdf
-  timeout: 30000
-  dark: false
-  withClicks: true
-  withToc: true
+download: false
 
 lineNumbers: true
 

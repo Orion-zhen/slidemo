@@ -12,7 +12,9 @@
     "@slidev/theme-apple-basic": "latest",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
-    "playwright-chromium": "latest",
     "vue": "latest"
+  },
+  "devDependencies": {
+    "playwright-chromium": "latest"
   }
 }
